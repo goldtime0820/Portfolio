@@ -331,7 +331,7 @@ body{font-family: Roboto;}blockquote{border-color: #4ea2e3;}.display-1{font-fami
     <div class="mbr-container">
         <div class="mbr-text counter-container mbr-fonts-style display-7">
             <ul>
-                <li><strong>2011</strong> - Bachelor of Engineering (B.Eng.), Computer engineering | Slovenská technická univerzita v Bratislave
+                <li><strong>2011 - 2015</strong> Bachelor of Engineering (B.Eng.) | Fundación Universidad de las Américas, Puebla, A.C.
 </li>
             </ul>
         </div>
