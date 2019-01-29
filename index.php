@@ -124,7 +124,7 @@ body{font-family: Roboto;}blockquote{border-color: #4ea2e3;}.display-1{font-fami
             </div>
             <div class="text-block mbr-col-sm-12 mbr-col-md-6">
                 <h3 class="mbr-section-title mbr-fonts-style align-left display-1">GOLD</h3>
-                <p class="mbr-fonts-style mbr-text align-left display-7">My name is SimonSiska and I am from Slovakia.
+                <p class="mbr-fonts-style mbr-text align-left display-7">My name is Jose Morfin and I am from Mexico.
 <br>I am expert in frontend and backend developer with 8+ years experience.
 <br>My strong skill is coding using good algorithms and datastructures.
 <br>And also I have good skill in database design.
